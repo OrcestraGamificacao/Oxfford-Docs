@@ -4,4 +4,4 @@ O projeto tem como premissa o seguinte documento proposta pela A+ Espaços Didá
 
 Especificando assim, parte do escopo do projeto.
 
-<embed src="https://orcestragamificacao.github.io/Oxfford-Docs/archive/Manual_Id.pdf" width="800px" height="500px" />
+<embed src="https://https://orcestragamificacao.github.io/Oxfford-Docs/#/archive/documento-de-features.pdf" width="800px" height="500px" />
