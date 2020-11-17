@@ -9,4 +9,4 @@
 **Desenvolvedores:**
 - [Ciro Costa de Araújo](https://github.com/ciro-c)
 - [Matheus Salles Blanco](https://github.com/MatheusBlanco)
-- Rodrigo Castro Gonçalves
+- [Rodrigo Castro Gonçalves](https://github.com/rodrigocag)
