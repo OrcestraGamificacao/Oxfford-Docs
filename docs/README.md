@@ -10,3 +10,4 @@
 - [Ciro Costa de Araújo](https://github.com/ciro-c)
 - [Matheus Salles Blanco](https://github.com/MatheusBlanco)
 - [Rodrigo Castro Gonçalves](https://github.com/rodrigocag)
+- [Juan Cerqueira](https://github.com/cerqueirajuan)
