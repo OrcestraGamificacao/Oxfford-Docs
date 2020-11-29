@@ -2,8 +2,8 @@
 
 ## Início do projeto
 
-Data de início: 10/11/2020
-Data de término: 17/11/2020
+- Data de início: 10/11/2020
+- Data de término: 17/11/2020
 
 ## Descrição
 

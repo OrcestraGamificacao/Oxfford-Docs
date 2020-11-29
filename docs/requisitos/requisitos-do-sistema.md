@@ -8,9 +8,9 @@ Esse sistema, é uma plataforma web que tem como objetivo fazer a conexão entre
 
 ## Termos, Abreviações e Acrônimos
 
-**Usuário** - Alunos e professores.
-**Plataforma** - Website desenvolvido.
-**Administrador** - Entidade que administra o tráfego da plataforma.
+- **Usuário** - Alunos e professores.
+- **Plataforma** - Website desenvolvido.
+- **Administrador** - Entidade que administra o tráfego da plataforma.
 
 ## Requisitos Funcionais
 

@@ -1,7 +1,7 @@
 # Sprint 2
 
-Data de início: 17/11/2020
-Data de término: 24/11/2020
+- Data de início: 17/11/2020
+- Data de término: 24/11/2020
 
 ## Descrição
 
