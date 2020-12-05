@@ -4,6 +4,7 @@
 * [Requisitos do Sistema](requisitos/requisitos-do-sistema.md)
 * [Backlog do Produto](requisitos/backlog-do-projeto.md)
 * [Diagrama de Classes](requisitos/diagrama-classe.md)
+* [Diagrama de Atividades](requisitos/diagrama-atividades.md)
 
 * Sprints
     * [Sprint 1](sprints/sprint1.md)
