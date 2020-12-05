@@ -74,7 +74,7 @@ A gamificação desenvolvida, foi pensada utilizando o framework Octalysis e foi
 
 ### Requisitos
 
-Foi também levantado uma breve introspecção, que pode ser acessada [aqui](../requisitos/instrospeccao.md).
+Foi também levantado uma breve introspecção, que pode ser acessada [aqui](../requisitos/introspeccao.md).
 Nela foi levado em conta todas as tarefas que o usuário poderia ser executar, sendo assim, levantando os requisitos com um formato mais informal, mas com bastante eficâcia.
 
 
