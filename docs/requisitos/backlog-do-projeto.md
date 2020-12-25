@@ -12,11 +12,11 @@ Esse será o backlog utilizado durante o desenvolvimento do sistema, com a sua r
 |EP02 - Aulas|FE03 - Visualização|US06 - Eu, como aluno, gostaria de ver informações de um professor para decidir sobre a solicitação da aula.|Should|
 ||FE04 - Solicitações|US07 - Eu, como aluno, gostaria de poder solicitar aulas para professores disponíveis na plataforma para que eu possa ter aulas particulares online.|Should|
 |||US08 - Eu, como professor, gostaria de poder ver todas as solicitações enviadas por alunos para mim, para que eu possa decidir se aceito ou não.|Should|
-|||Eu, como professor, gostaria de poder ver as informações das aulas solicitadas para mim, para que eu possa me decidir se aceito ou não.|Should|
+|||US09 - Eu, como professor, gostaria de poder ver as informações das aulas solicitadas para mim, para que eu possa me decidir se aceito ou não.|Should|
 |||US10 - Eu, como professor, gostaria de poder aceitar ou recusar às aulas solicitadas à mim.|Should|
 ||FE05 - Pedidos|US11 - Eu, como aluno, gostaria de ver todos os pedidos de aulas feitos por mim para professores e o seu status de aceitação para que eu possa pagar.|Should|
 |||US12 - Eu, como aluno, gostaria de pagar pelos pedidos de aulas que eu solicitei e que foram aceitos pelos professores.|Could|
-|||Eu, como aluno, gostaria de poder cancelar algum pedido de aula ainda não aceito, caso eu não possa participar no horário que foi marcado por mim.|Could|
+|||US13 - Eu, como aluno, gostaria de poder cancelar algum pedido de aula ainda não aceito, caso eu não possa participar no horário que foi marcado por mim.|Could|
 |||US14 - Eu, como aluno, gostaria de poder ver o pedido de aula, para ter certeza sobre as informações que eu solicitei.|Should|
 ||FE06 - Comunicação|US15 - Eu, como professor, gostaria de poder cancelar aulas que foram marcadas pelos alunos, devido à algum justificativa.|Could|
 |||US16 - Eu, como aluno, gostaria de poder remarcar aulas que foram canceladas pelo professor para que eu possa ainda ter minha aula.|Could|

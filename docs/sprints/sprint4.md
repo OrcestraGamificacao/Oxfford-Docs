@@ -1,7 +1,7 @@
 # Sprint 4
 
-- Data de início: 01/11/2020
-- Data de término: 08/11/2020
+- Data de início: 01/12/2020
+- Data de término: 08/12/2020
 
 ## Descrição
 
