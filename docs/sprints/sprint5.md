@@ -31,7 +31,8 @@ Essa foi a primeira sprint destinada a desenvolvimento, então foi passado para 
 
 ## Review
 
-A sprint 4 foi destinada à capacitação, portanto não foi produzido nada em código. Porém foi adicionado a issue **#3** questões de API que poderíamos utilizar em alguns estágios do desenvolvimento. Com isso foi feito um estudo sobre alguns pontos arquiteturais que são importantes, porém com um cunho informal sem muita documentação.
+**US01:** Foi criado todo o CRUD do usuário por requisições no Backend, e também a sua autenticação utilizando JWT. Portanto ainda sem conexão com o Frontend.
+**TS01:** Foi criado todo o CRUD de administrador no Backend, sem autenticação ainda e sem conexão com o Frontend.
 
 ## Comentários
 
