@@ -4,7 +4,7 @@
 
 **Gerente:** [Dâmaso Júnio Pereira Brasileo](https://github.com/juniopereirab)
 
-**Acompanhante da DiProj:** [Vitor Lamego](https://github.com/VitorLamego)
+**Acompanhante da DiProj:** [Arthur Matos](https://github.com/Arthur-Matos)
 
 **Desenvolvedores:**
 - [Ciro Costa de Araújo](https://github.com/ciro-c)
