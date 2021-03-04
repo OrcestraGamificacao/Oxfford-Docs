@@ -18,3 +18,7 @@
     * [Sprint 9](sprints/sprint9.md)
     * [Sprint 10](sprints/sprint10.md)
     * [Sprint 11](sprints/sprint11.md)
+    * [Sprint 12](sprints/sprint12.md)
+    * [Sprint 13](sprints/sprint13.md)
+    * [Sprint 14](sprints/sprint14.md)
+    * [Sprint 15](sprints/sprint15.md)
