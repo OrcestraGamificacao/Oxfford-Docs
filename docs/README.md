@@ -7,7 +7,8 @@
 **Acompanhante da DiProj:** [Arthur Matos](https://github.com/Arthur-Matos)
 
 **Desenvolvedores:**
+
+- [Brian Prina de Sá](https://github.com/DLBrianPina)
 - [Ciro Costa de Araújo](https://github.com/ciro-c)
-- [Matheus Salles Blanco](https://github.com/MatheusBlanco)
-- [Rodrigo Castro Gonçalves](https://github.com/rodrigocag)
-- [Juan Cerqueira](https://github.com/cerqueirajuan)
+- [Denys Rogeres](https://github.com/DenysRogeres)
+- [Luiz Henrique](https://github.com/luiz-herique)
