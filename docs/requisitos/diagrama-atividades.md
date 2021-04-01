@@ -1,11 +1,5 @@
 # Diagrama de Atividades
 
-Esses diagramas de atividades, são simplificados em relação às atividades principais dos dois principais tipos de usuário. 
+Diagrama de atividades atualizado que pode ser acessado no [Miro](https://miro.com/app/board/o9J_ktAvEX0=/?moveToWidget=3074457356693224425&cot=14)
 
-## Diagrama de atividades do professor
-
-![](../archive/diagrama-atividade-professor.svg)
-
-## Diagrama de atividades do aluno
-
-![](../archive/diagrama-atividade-aluno.svg)
+![](../archive/diagrama-atividade.jpg)
