@@ -40,3 +40,12 @@ Esse será o backlog utilizado durante o desenvolvimento do sistema, com a sua r
 |||US34 - Eu, como administrador, gostaria de poder criar códigos de desconto para que eu possa disponibilizar para os meus usuários.|Would|
 |||US35 - Eu, como administrador, gostaria de poder criar novas matérias dentro da plataforma para que os professores possam se categorizar melhor.|Must|
 |||US36 - Eu, como administrador, gostaria de poder gerenciar os usuários para que eu possa tomar as minhas próprias decisões em relações à eles. |Must|
+
+## Novos requisitos
+
+Esses são novos requisitos trazidos pelos clientes durante o final do mês de março. E as últimas para a finalização do projeto.
+
+|US|Descrição|Prioridade|
+|--|---------|----------|
+|US37|Eu, como professor, gostaria de poder adicionar cursos gravados dentro da plataforma para que eu possa colocá-los para venda e disponibilizar para os alunos|Should|
+|US38|Eu, como aluno, gostaria de poder adicionar listas de exercícios em formato PDF para que professores possam me ajudar e eu possa pagar a eles por isso.|Should|
