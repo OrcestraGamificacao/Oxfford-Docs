@@ -1,10 +1,12 @@
 * [Home](README.md)
 * [Ideia inicial](requisitos/ideia_inicial.md)
-* [Introspecção](requisitos/introspeccao.md)
-* [Requisitos do Sistema](requisitos/requisitos-do-sistema.md)
-* [Backlog do Produto](requisitos/backlog-do-projeto.md)
-* [Diagrama de Classes](requisitos/diagrama-classe.md)
-* [Diagrama de Atividades](requisitos/diagrama-atividades.md)
+
+* Documentação
+    * [Introspecção](requisitos/introspeccao.md)
+    * [Requisitos do Sistema](requisitos/requisitos-do-sistema.md)
+    * [Backlog do Produto](requisitos/backlog-do-projeto.md)
+    * [Diagrama de Classes](requisitos/diagrama-classe.md)
+    * [Diagrama de Atividades](requisitos/diagrama-atividades.md)
 
 * Sprints
     * [Sprint 1](sprints/sprint1.md)
@@ -23,3 +25,6 @@
     * [Sprint 14](sprints/sprint14.md)
     * [Sprint 15](sprints/sprint15.md)
     * [Sprint 16](sprints/sprint16.md)
+    * [Sprint 17](sprints/sprint17.md)
+    * [Sprint 18](sprints/sprint18.md)
+    * [Sprint 19](sprints/sprint19.md)

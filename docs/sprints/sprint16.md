@@ -23,12 +23,24 @@ Denys vai trocar o Cloudinary pelo Amazon S3.
 
 ## Retrospectiva
 
-...
+
+- Pontos positivos:
+    - Visão mais concreta do projeto
+
+- Pontos negativos:
+    - Estive bem desanimado e triste, um conhecido meu faleceu
+    - Demorei para corrigir pr
+    - N consegui entregar para o projeto por faculdade e ??Sobrecarga??
 
 ## Review
 
-...
+* Brian terminou a issue que ele estava encarregado.
+* Ciro ainda não completou todas as issues. Apenas o Backend que está pronto, e a integração com o Frontend está acontecendo aos poucos.
+* Houve uma pequena confusão sobre como a issue do Denys era para ser feita, porém foi esclarecido.
+* Luiz trouxe pontos importantes sobre gamificação que discutimos e validamos para executarmos com a finalização do projeto
+
+Luiz e Denys então ficaram encarregados de completar a issue do Desafi'Orc (iniciativa para fomentar o desenvolvimento dos projetos). Sendo assim, a próxima semana para o desenvolvimento exclusivo dessas issues (que estarão disponíveis na [Sprint 17](./sprint17.md))
 
 ## Comentários
 
-...
+A issue para mudança de Cloudinary para o Amazon S3 ficou posta em stand-by por enquanto para focar nas issues do Desafi'Orc.
