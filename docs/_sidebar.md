@@ -7,6 +7,7 @@
     * [Backlog do Produto](requisitos/backlog-do-projeto.md)
     * [Diagrama de Classes](requisitos/diagrama-classe.md)
     * [Diagrama de Atividades](requisitos/diagrama-atividades.md)
+    * [Diagrama de Pacotes](requisitos/diagrama-pacotes.md)
 
 * Sprints
     * [Sprint 1](sprints/sprint1.md)
