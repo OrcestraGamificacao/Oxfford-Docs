@@ -1,13 +1,16 @@
 * [Home](README.md)
 * [Ideia inicial](requisitos/ideia_inicial.md)
 
-* Documentação
+* Artefatos
     * [Introspecção](requisitos/introspeccao.md)
     * [Requisitos do Sistema](requisitos/requisitos-do-sistema.md)
     * [Backlog do Produto](requisitos/backlog-do-projeto.md)
     * [Diagrama de Classes](requisitos/diagrama-classe.md)
     * [Diagrama de Atividades](requisitos/diagrama-atividades.md)
     * [Diagrama de Pacotes](requisitos/diagrama-pacotes.md)
+    
+* Documentação
+    * [Documento de Visão](requisitos/documento-de-visao.md)
 
 * Sprints
     * [Sprint 1](sprints/sprint1.md)
@@ -29,3 +32,4 @@
     * [Sprint 17](sprints/sprint17.md)
     * [Sprint 18](sprints/sprint18.md)
     * [Sprint 19](sprints/sprint19.md)
+    * [Sprint 20](sprints/sprint20.md)
